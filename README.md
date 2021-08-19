@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my Tailwind / AlpineJS test 👋</h1>
 
-### 🚀 [My Live Version](https://ipopop.github.io/tailwind-alpine-coming-soon/index.html)
+### 🚀 [My Live Version](https://ipopop.github.io/tailwind-alpine-coming-soon/)
 
 > Responsive 'Coming Soon Page' built using Tailwind CSS and Alpine JS, with a countdown timer.
 
-<img src="./public/images/ScreenShot.jpg" width=300/>
+<img src="./docs/images/ScreenShot.jpg" width=300/>
 
 
 --- 
