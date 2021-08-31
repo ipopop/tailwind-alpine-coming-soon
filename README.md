@@ -10,3 +10,18 @@
 --- 
 > thank's to 'ThirusOfficial' for the tuto : https://youtu.be/XsSp0X1lrEU
 ---
+## Author
+
+👤 **eb-dev**
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [eb-dev](https://github.com/ipopop).<br />
+This project is [MIT](https://en.wikipedia.org/wiki/MIT_License) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
